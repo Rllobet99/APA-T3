@@ -1,6 +1,6 @@
 # Tercera tarea de APA: Multiplicaciones de vectores y ortogonalidad
 
-## Nom i cognoms
+## Ramon Llobet Duch
 
 El fichero `algebra/vectores.py` incluye la definición de la clase `Vector` con los
 métodos desarrollados en clase, que incluyen la construcción, representación y
@@ -75,6 +75,7 @@ $v_2$, y $v_1^\perp$ es normal (perpendicular) a $v_2$.
 Inserte a continuación una captura de pantalla que muestre el resultado de ejecutar el
 fichero `algebra/vectores.py` con la opción *verbosa*, de manera que se muestre el
 resultado de la ejecución de los tests unitarios.
+![alt text](image.png)
 
 #### Código desarrollado
 
